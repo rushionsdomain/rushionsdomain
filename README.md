@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francis Rushion Gachuri Chegge</h1>
-<h3 align="center">A passionate student in the field of Software Engineering from Kenya</h3>
+<h3 align="center">A passionate student in the field of Data Science & Software Engineering from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushionsdomain&label=Profile%20views&color=0e75b6&style=flat" alt="rushionsdomain" /> </p>
 
