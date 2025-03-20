@@ -1,44 +1,98 @@
-<h1 align="center">Hi 👋, I'm Francis Rushion Gachuri Chegge</h1>
-<h3 align="center">A passionate student in the field of Data Science & Software Engineering from Kenya</h3>
+<h1>Hi 👋, I'm Francis Rushion Gachuri Chegge</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushionsdomain&label=Profile%20views&color=0e75b6&style=flat" alt="rushionsdomain" /> </p>
+<p>A passionate Full-Stack Developer & Data Science Student from Kenya</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushionsdomain" alt="rushionsdomain" /></a> </p>
+<h2>🚀 What I'm Working On</h2>
+<ul>
+  <li>🔭 Developing projects aligned with the <b>UN Sustainable Development Goals (SDGs)</b>, specifically <b>mental health solutions</b>.</li>
+  <li>🧠 Building an <b>AI-powered mental health assistant</b> to provide personalized support.</li>
+  <li>💬 Creating a <b>mental health chatbot</b> for real-time guidance and engagement.</li>
+</ul>
 
-<p align="left"> <a href="https://twitter.com/rushionc137" target="blank"><img src="https://img.shields.io/twitter/follow/rushionc137?logo=twitter&style=for-the-badge" alt="rushionc137" /></a> </p>
+<h2>🌱 What I'm Learning</h2>
+<ul>
+  <li>🤖 <b>Prompt Engineering</b> & <b>Natural Language Processing (NLP)</b>.</li>
+  <li>🔌 <b>AI Integration</b> into software engineering.</li>
+  <li>📱 <b>Mobile App Development</b> with <b>Expo</b> & cross-ecosystem compatibility.</li>
+</ul>
 
-- 🔭 I’m currently learning and working on [React Projects in Moringa School](https://github.com/rushionsdomain)
+<h2>🤝 Collaboration Interests</h2>
+<ul>
+  <li>🛡️ Cybersecurity Projects.</li>
+  <li>📱 Mobile App Development (Cross-ecosystem).</li>
+</ul>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, SQL, Python, Flask, JSON, and Redux Frameworks.**
+<h2>💡 Ask Me About</h2>
+<ul>
+  <li>⚛️ <b>React</b> & <b>Flask</b>.</li>
+  <li>🤖 <b>AI Integration</b> in software engineering.</li>
+</ul>
 
-- 👯 I’m looking to collaborate on [Python and Javascript Projects](https://github.com/rushionsdomain)
+<h2>👨‍💻 My Projects</h2>
+<p>All of my projects are available on <a href="https://github.com/rushionsdomain" target="_blank"><b>GitHub</b></a></p>
 
-- 🤝 I’m looking for help with [React Manipulation](https://github.com/rushionsdomain)
+<h2>📫 How to Reach Me</h2>
+<p>Email: <b>rushionchegge@gmail.com</b></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rushionsdomain](https://github.com/rushionsdomain)
+<h2>⚡ Fun Fact</h2>
+<p><b>In 2023, OpenAI's ChatGPT became the fastest-growing consumer app in history, reaching 100 million users in just two months! 🚀</b></p>
 
-- 💬 Ask me about **C++, PHP**
+<h2>🛠️ Technologies & Tools</h2>
 
-- 📫 How to reach me **rushionchegge@gmail.com**
-
-- ⚡ Fun fact **The first high-level programming language, Fortran (Formula Translation), was created by IBM in the 1950s for scientific and engineering applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rushionc137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rushionc137" height="30" width="40" /></a>
-<a href="https://instagram.com/rushionsdomain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rushionsdomain" height="30" width="40" /></a>
-<a href="https://medium.com/@rushionsdomain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rushionsdomain" height="30" width="40" /></a>
+<h3>🌐 Frontend</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="42" height="42" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h3>⚙️ Backend</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushionsdomain&show_icons=true&locale=en&layout=compact" alt="rushionsdomain" /></p>
+<h3>🛢️ Databases</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="42" height="42" />
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="Microsoft SQL Server" width="42" height="42" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushionsdomain&show_icons=true&locale=en" alt="rushionsdomain" /></p>
+<h3>🤖 AI & Machine Learning</h3>
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/PyTorch_logo_icon.svg" alt="PyTorch" width="42" height="42" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow" width="42" height="42" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushionsdomain&" alt="rushionsdomain" /></p>
+<h3>🚀 DevOps & Cloud</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="42" height="42" />
+</p>
 
+<h3>🛡️ Testing & Automation</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="42" height="42" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="42" height="42" />
+  <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="42" height="42" />
+</p>
 
+<h2>⚡️ Where to Find Me</h2>
+<p>
+  <a target="_blank" href="https://x.com/rushionc137"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="Twitter" /></a>
+  <a target="_blank" href="https://ke.linkedin.com/in/rushion-chegge-79396b30b"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="LinkedIn" /></a>
+  <a target="_blank" href="https://www.instagram.com/rushionsdomain/"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="Instagram" /></a>
+</p>
 
-###
+<h2>📊 GitHub Stats</h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rushionsdomain&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rushionsdomain&" alt="GitHub Streak" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rushionsdomain&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
